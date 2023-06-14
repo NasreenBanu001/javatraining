@@ -23,7 +23,7 @@ public class Armstrong_number {
             {
 
                 value =value*num;
-//                System.out.println(value);
+                System.out.println(value);
             }
 
                     i++;
